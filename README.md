@@ -7,4 +7,4 @@ Email: simasjarukaitis@gmail.com<br>
 
 This is generic (used for any data) linked list.<br>
 C language does not provide generics, so I created generic linked list and functions for university work.<br>
-It has simple functions, declared in linked_list.h file.
+It has simple functions, declared in linked_list.h file, and its definitions in linked_list.c file.
