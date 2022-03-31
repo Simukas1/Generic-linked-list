@@ -1,7 +1,7 @@
 # Generic-linked-list
 
-Author: Simonas Jarukaitis
-Email: simasjarukaitis@gmail.com
+Author: Simonas Jarukaitis<br>
+Email: simasjarukaitis@gmail.com<br>
 
 <h3>Description</h3>
 
